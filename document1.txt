@@ -36,3 +36,6 @@ print(quicksort(0, len(example)-1, example))
 
 for i in range(10):
     print(f"Hello World!{i}")
+
+for i in range(10):
+    print(f"Github is very useful {i}")
